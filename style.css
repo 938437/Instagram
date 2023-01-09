@@ -194,6 +194,10 @@ html, body{
     padding-left: 10px;
 }
 
+.options > a:hover {
+    text-decoration: underline;
+}
+
 .others {
     display: flex;
     align-items: center;
